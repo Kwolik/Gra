@@ -1,0 +1,15 @@
+﻿  Game.cpp
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(63): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(105): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(122): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(127): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(133): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(139): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(203): warning C4305: "-=": obcięcie z "double" do "float"
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(211): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(225): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\donda\desktop\^ projekt\graturowa\graturowa\game.cpp(106): warning C4101: "timer3": lokalna zmienna, do której nie istnieje odwołanie
+  GraTurowa.vcxproj -> C:\Users\donda\Desktop\^ Projekt\GraTurowa\Debug\GraTurowa.exe
